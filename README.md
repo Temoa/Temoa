@@ -1,1 +1,1 @@
-![](/imgs/pic1.gif)
+![](https://raw.githubusercontent.com/Temoa/Temoa/master/imgs/pic1.gif)
